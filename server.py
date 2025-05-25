@@ -3,7 +3,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 users = {
-    "katya321": {
+    "Solo#skayt1": {
         "last_name": "Соловйова",
         "first_name": "Катерина",
         "course": "2",
